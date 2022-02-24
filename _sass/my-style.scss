@@ -57,7 +57,7 @@
 
 //toc
 #markdown-toc {
-  float: right;
-  margin-left: 2rem;
-  z-index: 99;
+  float: right !important;
+  margin-left: 2rem !important;
+  z-index: 99 !important;
 }
